@@ -1,0 +1,70 @@
+.big1{
+    font-family:monospace;
+    font-size: 0.8em;
+    position: absolute;
+    margin-left: 25px;
+   }
+
+.subheader{
+    font-family:'Courier New';
+    text-align: center;
+    margin-top: 15px;
+}
+
+.phoneNum{
+    margin-top:2px;
+    font-size: 1.2em;
+}
+
+.addressbody{
+    margin-top:2px;
+}
+
+.emails{
+    margin-top:2px;
+    font-size:1.2em;
+}
+
+.abtme{
+    font-family: monospace;
+    margin-left: 100px;
+
+}
+
+.big2{
+    margin-left: 660px;
+    position: absolute;
+    font-family: monospace;
+    text-align: center;
+    font-size: 0.8em;
+}
+
+.smallp{
+    font-size: 1.2em;
+}
+
+.yap5{
+    font-size: 1.2em;
+}
+
+.demographics{
+    font-size: 1.2em;
+}
+
+.addressbody{
+    font-size: 1.2em;
+}
+
+
+
+.big3{
+    margin-left: 1150px;
+    position: absolute;
+    font-family: monospace;
+    text-align: center;
+    font-size: 0.8em;
+}
+
+body {
+  background-color: #f8cdcd;
+}
